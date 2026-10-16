@@ -43,14 +43,26 @@ The activity was generated deliberately in a controlled lab. The evidence demons
 
 ## Evidence
 
-The following screenshots are included in the repository root directory.
+### 1. SSH Failed-Login Test from Kali Linux
 
-They document:
-1. The SSH failed-login test from Kali Linux.
-2. Ubuntu SSH authentication logs.
-3. Authentication alerts in the Wazuh dashboard.
-4. Authentication alert records in the Wazuh manager's JSON log.
-5. The higher-severity rule 2502 alert.
+![SSH Failed-Login Test](01-SSH-Failed-Login-Test.png)
+
+### 2. Ubuntu SSH Authentication Log
+
+![Ubuntu SSH Authentication Log](02-Ubuntu-SSH-Authentication-Log.png)
+
+### 3. Wazuh SSH Authentication Alerts
+
+![Wazuh SSH Authentication Alerts](03-Wazuh-SSH-Authentication-Alerts.png)
+
+### 4. Wazuh Authentication Alert JSON
+
+![Wazuh Authentication Alert JSON](04-Wazuh-SSH-Authentication-Alert-JSON.png)
+
+### 5. Wazuh Brute-Force-Related Alert — Rule 2502
+
+![Wazuh Rule 2502 Alert](05-Wazuh-Brute-Force-Related-Alert-2502.png)
+
 
 ## Security Lessons
 
