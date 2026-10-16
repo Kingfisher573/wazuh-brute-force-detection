@@ -43,7 +43,7 @@ The activity was generated deliberately in a controlled lab. The evidence demons
 
 ## Evidence
 
-Screenshots are stored in the `screenshots/` directory.
+The following screenshots are included in the repository root directory.
 
 They document:
 1. The SSH failed-login test from Kali Linux.
