@@ -63,6 +63,10 @@ The activity was generated deliberately in a controlled lab. The evidence demons
 
 ![Wazuh Rule 2502 Alert](05-Wazuh-Brute-Force-Related-Alert-2502.PNG)
 
+### 6. Wazuh Dashboard — Overview of SSH Authentication Alerts
+
+![Wazuh Dashboard showing SSH alerts including Rule 2502](06-Wazuh-Dashboard-All-SSH-Alerts.PNG)
+
 
 ## Security Lessons
 
