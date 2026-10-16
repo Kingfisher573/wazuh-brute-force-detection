@@ -61,7 +61,7 @@ The activity was generated deliberately in a controlled lab. The evidence demons
 
 ### 5. Wazuh Brute-Force-Related Alert — Rule 2502
 
-![Wazuh Rule 2502 Alert](05-Wazuh-Brute-Force-Related-Alert-2502.PNG)png)
+![Wazuh Rule 2502 Alert](05-Wazuh-Brute-Force-Related-Alert-2502.PNG)
 
 
 ## Security Lessons
