@@ -45,23 +45,23 @@ The activity was generated deliberately in a controlled lab. The evidence demons
 
 ### 1. SSH Failed-Login Test from Kali Linux
 
-![SSH Failed-Login Test](01-SSH-Failed-Login-Test.png)
+![SSH Failed-Login Test](01-SSH-Failed-Login-Test.PNG)
 
 ### 2. Ubuntu SSH Authentication Log
 
-![Ubuntu SSH Authentication Log](02-Ubuntu-SSH-Authentication-Log.png)
+![Ubuntu SSH Authentication Log](02-Ubuntu-SSH-Authentication-Log.PNG)
 
 ### 3. Wazuh SSH Authentication Alerts
 
-![Wazuh SSH Authentication Alerts](03-Wazuh-SSH-Authentication-Alerts.png)
+![Wazuh SSH Authentication Alerts](03-Wazuh-SSH-Authentication-Alerts.PNG)
 
 ### 4. Wazuh Authentication Alert JSON
 
-![Wazuh Authentication Alert JSON](04-Wazuh-SSH-Authentication-Alert-JSON.png)
+![Wazuh Authentication Alert JSON](04-Wazuh-SSH-Authentication-Alert-JSON.PNG)
 
 ### 5. Wazuh Brute-Force-Related Alert — Rule 2502
 
-![Wazuh Rule 2502 Alert](05-Wazuh-Brute-Force-Related-Alert-2502.png)
+![Wazuh Rule 2502 Alert](05-Wazuh-Brute-Force-Related-Alert-2502.PNG)png)
 
 
 ## Security Lessons
